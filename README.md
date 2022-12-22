@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arenaa
-- 👀 I’m interested in Natural language processing
+- :sparkles: I’m interested in Natural language processing
 - 🌱 I’m currently reading Flunet Python book.
 - :zap: I’m looking to collaborate on Instruction-based large language models
 
