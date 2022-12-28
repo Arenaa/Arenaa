@@ -1,6 +1,6 @@
 - :sparkles: I am a NLP researcher who is interested in conversational AI.
 - 🌱 I’m currently reading [Flunet Python book](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/).
-- :zap: I’m looking to collaborate on Instruction-based large language models and their applications.
+- :zap: I’m looking for collaborate on research project about Instruction tunned large language models and their applications.
 
 
 
