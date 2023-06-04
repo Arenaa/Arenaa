@@ -1,6 +1,9 @@
 
-I am a NLP/Dl researcher who is interested in conversational AI. I’m currently focusing on Deep Reinforcement learning and also conducting a deep-dive research on in-context learning, looking for collaborate on research project about Instruction tunned large language models and their applications.
+Hi there!
 
+I'm a NLP/DL researcher with a passion for conversational AI. My current research focus is on Deep Reinforcement Learning, which involves training agents to make decisions based on rewards and punishments. Additionally, I'm conducting a deep-dive research on diffusion models and their applications in natural language processing, computer vision.
+
+I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to get in touch!
 
 
 <!---
