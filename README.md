@@ -1,7 +1,7 @@
 
 Hi there!
 
-I'm a NLP/DL researcher with a passion for conversational AI. My current research focus is on Deep Reinforcement Learning, which involves training agents to make decisions based on rewards and punishments. Additionally, I'm conducting deep-dive research on diffusion models and their applications in natural language processing, and computer vision.
+I'm a NLP/DL researcher with a passion for conversational AI. My current research focus is on Deep Reinforcement Learning, which involves training agents to make decisions based on rewards and punishments. Additionally, I'm conducting deep-dive research on different aspects of diffusion models and how they exactly work.
 
 I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to get in touch!
 
