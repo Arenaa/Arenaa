@@ -1,7 +1,7 @@
 
 Hi there!
 
-:herb: I'm an NLP/DL researcher with a passion for conversational AI. My current research focuses on Deep Reinforcement Learning, which involves training agents to make decisions based on rewards and punishments. I'm also conducting deep-dive research on different aspects of diffusion models and how they work.
+:herb: I'm a DL researcher with a passion for vision-language models. My current research focuses on different aspects of diffusion models and how they work and how we can evaluate them.
 
 :notebook: I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](khoshnoodi.ma@gmail.com)
 
