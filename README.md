@@ -1,9 +1,7 @@
 
 Hi there!
 
-:herb: I'm a DL researcher with a strong interest in vision-language models. Recently, my research journey has been dedicated to exploring the fascinating world of generative models, specifically focusing on diffusion models for image generation. By exploring diffusion models, I aim to unravel the underlying mechanisms that drive their ability to generate realistic and coherent images. Through experimental investigations, I strive to gain comprehensive insights into the intricate dynamics and transformations that take place within these models during the image generation process.
-
-One of the essential aspects of my work is not only understanding how these generative models operate but also designing effective evaluation methodologies. Developing robust evaluation techniques enables us to assess the quality, diversity, and faithfulness of the generated images. By pushing the boundaries of evaluation methodologies, I aim to provide a more comprehensive and accurate understanding of the strengths and limitations of diffusion models. I firmly believe that comprehending the thinking process of generative models opens up exciting possibilities for enhancing their capabilities. 
+:herb: I'm a deep learning researcher passionate about vision-language models, particularly focused on diffusion models for image generation. My research aims to uncover the inner workings of these models to better understand their ability to generate realistic images. I also work on improving evaluation techniques to assess image quality, diversity, and faithfulness. My goal is to enhance the capabilities of generative models by gaining deeper insights into their thinking process.
 
 :notebook: I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](khoshnoodi.ma@gmail.com)
 
