@@ -1,7 +1,7 @@
 
 Hi there!
 
-:herb: I'm a deep learning researcher passionate about vision-language models, particularly focused on diffusion models for image generation. My research aims to uncover the inner workings of these models to better understand their ability to generate realistic images. I also work on improving evaluation techniques to assess image quality, diversity, and faithfulness. My goal is to enhance the capabilities of generative models by gaining deeper insights into their thinking process.
+:herb: I'm a deep learning researcher with a diverse background and substantial expertise in reinforcement learning. My passion lies in vision-language models, particularly focusing on diffusion models for image generation. Moreover, I'm actively engaged in exploring innovative ways to merge deep reinforcement learning with diffusion models, aiming to push the boundaries of AI capabilities even further.
 
 :notebook: I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](khoshnoodi.ma@gmail.com)
 
