@@ -3,6 +3,8 @@ Hi there!
 
 :herb: I'm a deep learning researcher with a diverse background and substantial expertise in machine learning and natural language processing. My passion lies in vision-language models, particularly focusing on diffusion models for image generation. Moreover, I'm actively engaged in exploring innovative ways to merge deep reinforcement learning with diffusion models, aiming to push the boundaries of AI capabilities even further.
 
+👩‍🔬 Currently, I am closely working with the UC Santa Barbara NLP Group to develop more faithful and consistent evaluation metrics for text-to-image models.
+
 :notebook: I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](khoshnoodi.ma@gmail.com)
 
 <!---
