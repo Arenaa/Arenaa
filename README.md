@@ -1,12 +1,15 @@
 
-Hi there!
+## About Me 🚀
 
-:herb: I'm a deep learning researcher with a diverse background and substantial expertise in machine learning and natural language processing. My passion lies in vision-language models, particularly focusing on diffusion models for image generation. Moreover, I'm actively engaged in exploring innovative ways to merge deep reinforcement learning with diffusion models, aiming to push the boundaries of AI capabilities even further.
+I am a dedicated ML/NLP researcher with a rich and versatile background, bringing extensive expertise in machine learning, natural language processing, and computer vision. My profound passion centers around advancing foundation models in the realms of both NLP and computer vision, with a specific emphasis on Large Language Models (LLMs). Despite the incredible improvements in Large Language Models (LLMs) over the last few years, I believe they still face challenges that are yet to be solved, and I am excited about the opportunity to explore and contribute to advancements in this dynamic field.
 
-👩‍🔬 Currently, I am closely working with the UC Santa Barbara NLP Group to develop more faithful and consistent evaluation metrics for text-to-image models.
+### Current Work 👩‍💻
 
-:notebook: I'm always looking for opportunities to collaborate on research projects related to these areas. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](khoshnoodi.ma@gmail.com)
+Currently, I am actively collaborating with the UC Santa Barbara NLP Group, playing a significant role in the development of robust evaluation metrics for text-to-image models. Our ongoing project, named "T2IScoreScore," specifically tackles the absence of comprehensive evaluation methods for assessing the faithfulness and consistency of text-to-image (t2i) models. Our overarching goal is to create a highly comprehensive evaluation framework to enhance the quality of these models.
 
+### Expertise 💡
+
+My proficiency in developing and implementing innovative algorithms, coupled with a deep understanding of AI models, positions me as a valuable asset in pushing the boundaries of research and technology. I'm consistently seeking opportunities to collaborate on research projects within these domains. If you're interested in working together or have any questions about my research, please don't hesitate to [get in touch!](mailto:khoshnoodi.ma@gmail.com)
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arenaa&theme=dark&card_width=450)](https://git.io/streak-stats)
 
