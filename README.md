@@ -2,7 +2,7 @@
 
   ## About Me 🚀
   
-  I am a dedicated ML/NLP researcher with a versatile background, bringing extensive expertise in machine learning, natural language processing, and computer vision. My profound passion centers around advancing foundation models in the realms of both NLP and computer vision, with a specific emphasis on Large Language Models (LLMs). Despite the incredible improvements in Large Language Models (LLMs) over the last few years, I believe they still face challenges that are yet to be solved, and I am excited about the opportunity to explore and contribute to advancements in this dynamic field.
+  I am a dedicated NLP/ML researcher with a versatile background, bringing extensive expertise in machine learning, natural language processing, and computer vision. My profound passion centers around advancing foundation models in the realms of both NLP and computer vision, with a specific emphasis on Large Language Models (LLMs). Despite the incredible improvements in Large Language Models (LLMs) over the last few years, I believe they still face challenges that are yet to be solved, and I am excited about the opportunity to explore and contribute to advancements in this dynamic field.
   
   ### Current Work 👩‍💻
   
