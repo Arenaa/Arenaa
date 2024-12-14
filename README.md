@@ -2,7 +2,7 @@
 
   ## About Me 🚀
   
-  I am an NLP/ML researcher with a versatile background, bringing extensive expertise in machine learning and natural language processing. My profound passion centers around advancing foundation models in the realm of NLP.
+I am a researcher specializing in generative AI, with a focus on Vision-Language models, commonsense reasoning, evaluation frameworks, and multimodal systems. With hands-on expertise in tools like PyTorch and HuggingFace, I have contributed to advancing LLMs, VLMs, and text-to-image models through innovative methodologies. My work lies at the intersection of cutting-edge techniques in multimodal AI, driving advancements in language understanding, model efficiency, and system evaluation. I am actively seeking new research opportunities, so if you're interested in collaborating or discussing potential projects, please feel free to reach out.
   
 </div>
 
