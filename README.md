@@ -6,10 +6,10 @@ I am a researcher specializing in generative AI, with a focus on Vision-Language
   
 </div>
 
-<!---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arenaa&theme=dark&card_width=450)](https://git.io/streak-stats)
 
 
 Arenaa/Arenaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
